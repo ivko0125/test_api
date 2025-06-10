@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "97310c50-7805-499e-8a97-049b62629de0",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "4604d520-4806-49f9-8e00-327c0d7463d2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://www.ukr.net"
+			},
+			"response": []
+		}
+	]
+}
